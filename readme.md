@@ -5,6 +5,6 @@ Technologies used- HTML, Javascript, CSS, Bootstrap
 I am mostly happy with the work I've done, although I would've liked to include some functionality with pagination of the data and page numbers to navigate between. If I was to continue working on this project, I would add that functionality in.
 
 User Stories-
-1. As Mike, I would like to be able to use this website to search for a specific term and find funny gifs to show my friends.
-2. As Tina, I would like to use a website to search for random Gifs I haven't seen before.
-3. As Billy, I would to be able to type in a keyword and have a website show me "just the right gif".
+1. As a user who is looking to be entertained, I would like to be able to use this website to search for a specific term and find funny gifs to show my friends.
+2. As a user who struggles with creativity and visualization, I would like to use a website to search for random Gifs I haven't seen before.
+3. As a user who wants to be entertained in a very specific way, I would to be able to type in a keyword and have a website show me "just the right gif".
